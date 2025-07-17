@@ -34,7 +34,7 @@ export default function Index() {
         <div 
           className="absolute inset-0 bg-cover bg-center bg-no-repeat"
           style={{
-            backgroundImage: `url('/img/9fd53f88-2a9c-4dc9-9d07-c87753a6b066.jpg')`,
+            backgroundImage: `url('/img/6065ff71-0489-49bc-aae8-82d1457afeff.jpg')`,
           }}
         >
           <div className="absolute inset-0 bg-black/40" />
@@ -121,7 +121,7 @@ export default function Index() {
             <Card className="group hover:shadow-xl transition-all duration-300">
               <div className="aspect-video overflow-hidden rounded-t-lg">
                 <img 
-                  src="/img/6f530a79-7ba0-435f-bdfb-2617d220e07a.jpg" 
+                  src="/img/342ad1ae-5b56-456d-b094-23403243944e.jpg" 
                   alt="Древние башни Осетии" 
                   className="w-full h-full object-cover group-hover:scale-105 transition-transform duration-300"
                 />
@@ -140,7 +140,7 @@ export default function Index() {
             <Card className="group hover:shadow-xl transition-all duration-300">
               <div className="aspect-video overflow-hidden rounded-t-lg">
                 <img 
-                  src="/img/9fd53f88-2a9c-4dc9-9d07-c87753a6b066.jpg" 
+                  src="/img/00a90ad6-2b49-4f10-bd95-01655aa1f600.jpg" 
                   alt="Горные вершины" 
                   className="w-full h-full object-cover group-hover:scale-105 transition-transform duration-300"
                 />
@@ -159,7 +159,7 @@ export default function Index() {
             <Card className="group hover:shadow-xl transition-all duration-300">
               <div className="aspect-video overflow-hidden rounded-t-lg">
                 <img 
-                  src="/img/9fba5f65-0a3f-4b67-bbf6-eb2e43197f91.jpg" 
+                  src="/img/6065ff71-0489-49bc-aae8-82d1457afeff.jpg" 
                   alt="Горные тропы" 
                   className="w-full h-full object-cover group-hover:scale-105 transition-transform duration-300"
                 />
