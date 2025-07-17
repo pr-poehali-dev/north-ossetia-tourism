@@ -122,17 +122,17 @@ export default function Index() {
               <div className="aspect-video overflow-hidden rounded-t-lg">
                 <img 
                   src="/img/6f530a79-7ba0-435f-bdfb-2617d220e07a.jpg" 
-                  alt="Башни Ингушетии" 
+                  alt="Древние башни Осетии" 
                   className="w-full h-full object-cover group-hover:scale-105 transition-transform duration-300"
                 />
               </div>
               <CardHeader>
                 <div className="flex items-center justify-between">
-                  <CardTitle>Башни Ингушетии</CardTitle>
+                  <CardTitle>Древние башни Осетии</CardTitle>
                   <Badge variant="secondary">Культурное наследие</Badge>
                 </div>
                 <CardDescription>
-                  Древние каменные башни, свидетели многовековой истории региона
+                  Каменные сторожевые башни - уникальные памятники архитектуры Северной Осетии
                 </CardDescription>
               </CardHeader>
             </Card>
